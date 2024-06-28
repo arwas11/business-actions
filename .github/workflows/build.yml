@@ -11,5 +11,5 @@ jobs:
     steps:
       - name: Trigger redeploy
         run: |
-        curl -X GET \
-        https://api.render.com/deploy/srv-cpvgs5pu0jms73asia7g?key=j6oOAipshH8
+          curl -X GET \
+            https://api.render.com/deploy/srv-cpvgs5pu0jms73asia7g?key=j6oOAipshH8
