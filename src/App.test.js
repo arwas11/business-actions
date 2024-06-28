@@ -6,6 +6,7 @@ import '@testing-library/jest-dom';
 import { render, screen } from '@testing-library/react';
 import { App } from './App';
 
+//Testing
 it('should render', () => {
   render(<App />);
 
